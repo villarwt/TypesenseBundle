@@ -24,11 +24,11 @@
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
-        "psr-4": { "ACSEO\\TypesenseBundle\\": "src/" }
+        "psr-4": { "acseo\\TypesenseBundle\\": "src/" }
     },
     "autoload-dev": {
         "psr-4": {
-            "ACSEO\\TypesenseBundle\\Tests\\": "tests/"
+            "acseo\\TypesenseBundle\\Tests\\": "tests/"
         }
     },
     "scripts": {
